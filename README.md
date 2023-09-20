@@ -1,4 +1,4 @@
 # CSM51A
-Assignments for CSM51A
+Assignments for CSM51A @ UCLA
 
-Done by Ethan Wong in Fall 2020 @ UCLA
+Taken in Fall 2020with Professor Richard Korf
